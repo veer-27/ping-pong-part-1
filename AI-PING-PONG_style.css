@@ -1,0 +1,31 @@
+body
+{
+ background-size:cover;
+ background-position:center;
+
+}
+
+.heading
+{
+    text-align: left;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.heading h3
+{
+  font-size: 20px;
+  display: inline;
+}
+
+.heading button
+{
+    border: 1px solid white;
+   float: right;
+}
+
+.status_label
+{
+    background-color: whitesmoke;
+
+}
